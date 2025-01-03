@@ -1,1 +1,1 @@
-# date_and_sales
+# scape data automatically from open source API
